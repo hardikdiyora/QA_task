@@ -1,0 +1,8 @@
+22 Jul 2019 10:59:01 [INFO ] types.api.APITestBase setUp:12 - Setting up the Base URI for API testing
+22 Jul 2019 10:59:02 [INFO ] types.api.search.GetSearchLocationTest verifyEmptyBodyResponse:40 - Verify /search api GET SUCCESS with Empty body with query = 1234
+22 Jul 2019 10:59:03 [INFO ] types.api.search.GetSearchLocationTest verifyEmptyBodyResponse:40 - Verify /search api GET SUCCESS with Empty body with query = !@#
+22 Jul 2019 10:59:03 [INFO ] types.api.search.GetSearchLocationTest verifyEmptyBodyResponse:40 - Verify /search api GET SUCCESS with Empty body with query = Ber lin
+22 Jul 2019 10:59:04 [INFO ] types.api.search.GetSearchLocationTest verifyEmptyBodyResponse:40 - Verify /search api GET SUCCESS with Empty body with query = true
+22 Jul 2019 10:59:04 [INFO ] types.api.search.GetSearchLocationTest verifyForbiddenResponse:52 - Verify /search api GET FORBIDDEN without query param
+22 Jul 2019 10:59:04 [INFO ] types.api.search.GetSearchLocationTest verifySuccessResponse:25 - Verify /search api GET SUCCESS with query = Berlin
+22 Jul 2019 10:59:05 [INFO ] types.api.search.GetSearchLocationTest verifySuccessResponse:25 - Verify /search api GET SUCCESS with query = bErLiN
